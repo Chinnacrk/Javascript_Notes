@@ -1,7 +1,7 @@
-# Javascript_Notes
+# JavaScript_Notes
 
 
 Pramod anna
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTMwODY1M119
+eyJoaXN0b3J5IjpbMzk4NjU4MTg5LDEyOTEzMDg2NTNdfQ==
 -->
