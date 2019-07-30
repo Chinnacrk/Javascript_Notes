@@ -1,11 +1,12 @@
 # JavaScript_Notes
 
 
-Pramod __**anna**_ 
+Pramod  _**anna**_ 
+
 ```javascript
 var thalaiva="pramod";
 console.log(thaliva);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NDY3NTY1LDEyOTEzMDg2NTNdfQ==
+eyJoaXN0b3J5IjpbMTEwNTEwODM4MiwxMjkxMzA4NjUzXX0=
 -->
